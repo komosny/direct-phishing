@@ -1,0 +1,5 @@
+*.iso
+*.parquet
+*.gz
+.ipynb_checkpoints/
+__*/
